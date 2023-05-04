@@ -21,3 +21,4 @@ If you would like to contribute to this project, feel free to submit a pull requ
 
 ## License
 This project is licensed under the MIT license. See the LICENSE file for more information.
+Done by Allan Losenge for my Phase 2 Reactjs project.
