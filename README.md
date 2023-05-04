@@ -6,7 +6,7 @@ https://phase-2-project-book-app.vercel.app/
 
 ## Installation
 1. Clone the repository: git clone https://github.com/your-username/book-library-app.git
-2. Change directory: cd book-library-app
+2. Change directory: cd phase-2-project-book-app
 3. Install dependencies: npm install
 4. Start the app: npm start
 5. Open http://localhost:3000 to view it in the browser.
