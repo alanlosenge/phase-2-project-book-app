@@ -10,6 +10,7 @@ This is a book library app created using React.js. It allows users to add, remov
 ## Usage
 
 To search for a book in your library, type the book's title or author in the search bar. The app will display all books that match your search query.
+
 The app also displays the book's author and its genre where the book was written and which time it was based on e.g scandinavian times and the subjects it entails.
 
 Contributing
