@@ -16,5 +16,5 @@ The app also displays the book's author and its genre where the book was written
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request.Feel free to email me. temlosenge@gmail.com
 
-License
+## License
 This project is licensed under the MIT license. See the LICENSE file for more information.
