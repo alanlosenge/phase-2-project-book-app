@@ -14,7 +14,7 @@ To search for a book in your library, type the book's title or author in the sea
 The app also displays the book's author and its genre where the book was written and which time it was based on e.g scandinavian times and the subjects it entails.
 
 ## Contributing
-If you would like to contribute to this project, feel free to submit a pull request.
+If you would like to contribute to this project, feel free to submit a pull request.Feel free to email me. temlosenge@gmail.com
 
 License
 This project is licensed under the MIT license. See the LICENSE file for more information.
