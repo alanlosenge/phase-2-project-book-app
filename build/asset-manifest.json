@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f1b31ff.css",
+    "main.js": "/static/js/main.563c5c4a.js",
+    "static/media/book-g9a0b0525a_1920.jpg": "/static/media/book-g9a0b0525a_1920.3c28c49a8e4ffee4ba49.jpg",
+    "static/media/cover_not_found.jpg": "/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/old-books-gf5a173d12_640.jpg": "/static/media/old-books-gf5a173d12_640.7fd90c14079af3ce1d01.jpg",
+    "static/media/vecteezy_book_1200107.png": "/static/media/vecteezy_book_1200107.302c26311416eea1bf79.png",
+    "index.html": "/index.html",
+    "static/media/loader.svg": "/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.7f1b31ff.css.map": "/static/css/main.7f1b31ff.css.map",
+    "main.563c5c4a.js.map": "/static/js/main.563c5c4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1b31ff.css",
+    "static/js/main.563c5c4a.js"
+  ]
+}
