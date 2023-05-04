@@ -6,8 +6,8 @@ This is a book library app created using React.js. It allows users to add, remov
 2. Change directory: cd book-library-app
 3. Install dependencies: npm install
 4. Start the app: npm start
-Open http://localhost:3000 to view it in the browser.
-Usage
+5. Open http://localhost:3000 to view it in the browser.
+## Usage
 Once you have the app running, you can start adding books to your library by clicking the "Add Book" button. You will be prompted to enter the book's title, author, and number of pages. Once you have entered this information, click the "Add" button to add the book to your library.
 
 To remove a book from your library, simply click the "Remove" button next to the book you wish to delete.
