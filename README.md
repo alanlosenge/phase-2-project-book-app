@@ -2,7 +2,7 @@
 This is a book library app created using React.js. It allows users to add, remove and search for books in their personal library.
 
 ## Installation
-Clone the repository: git clone https://github.com/your-username/book-library-app.git
+1. Clone the repository: git clone https://github.com/your-username/book-library-app.git
 Change directory: cd book-library-app
 Install dependencies: npm install
 Start the app: npm start
