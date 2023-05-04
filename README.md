@@ -1,4 +1,4 @@
-Book Library App
+<h1>Book Library App</>
 This is a book library app created using React.js. It allows users to add, remove and search for books in their personal library.
 
 Installation
